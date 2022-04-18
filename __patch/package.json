@@ -1,0 +1,11 @@
+{
+  "name": "patch",
+  "version": "1.0.0",
+  "description": "",
+  "main": "webpack-for-node.config.js",
+  "scripts": {
+    "build:node": "../node_modules/.bin/webpack --config webpack-for-node.config.js --progress"
+  },
+  "author": "",
+  "license": "ISC"
+}
